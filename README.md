@@ -9,3 +9,6 @@
    cd data-selection-app
 3. Откройте файл index.html
 4. Выберите данные для отображения из выпадающего списка
+
+Дополнительная ссылка на опубликованную страницу:
+https://nargiza-24.github.io/data-selection-app/
